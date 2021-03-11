@@ -1,0 +1,110 @@
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe.config
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.pdb
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Form1.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.girisForm.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Properties.Resources.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csproj.GenerateResource.Cache
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.exe
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.pdb
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.rapor.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.cache
+c:\users\mazlum\documents\visual studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.compiled
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunEkle.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunDuzenleForm.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimEtForm.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimAlForm.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimVerilenForm.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.yapilanIslemler.resources
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csprojResolveAssemblyReference.cache
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.sifreDegisForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe.config
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.exe
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.pdb
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csprojResolveAssemblyReference.cache
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Form1.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.girisForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Properties.Resources.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.rapor.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporTE.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.sifreDegisForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimAlForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimEtForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimVerilenForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunDuzenleForm.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunEkle.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.yapilanIslemler.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csproj.GenerateResource.Cache
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.cache
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.compiled
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.pdb
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporTE2.resources
+C:\Users\mazlum\Desktop\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporYI.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe.config
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.exe
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.pdb
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.exe
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\belediyeProgram.pdb
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Form1.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.girisForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.Properties.Resources.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.rapor.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporTE.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporTE2.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.raporYI.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.sifreDegisForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimAlForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimEtForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.teslimVerilenForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunDuzenleForm.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.urunEkle.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.yapilanIslemler.resources
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csproj.GenerateResource.Cache
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.cache
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\RdlCompile.compiled
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csprojAssemblyReference.cache
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csproj.CoreCompileInputs.cache
+C:\Users\mazlum\Desktop\Yeni klasör\belediyeProgram\belediyeProgram\obj\Debug\belediyeProgram.csproj.CopyComplete
